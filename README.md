@@ -28,7 +28,7 @@ cd my-elegento-app
 npm i
 ```
 
-- ScandiPWA CLI
+- Install ScandiPWA CLI
 ```
 npm i -g scandipwa-cli
 ```
