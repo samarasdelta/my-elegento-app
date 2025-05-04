@@ -21,9 +21,9 @@ Before you begin, ensure you have the following installed on your system:
 
 - Clone this repository
 ```
-git clone git@github.com:samarasdelta/my-elegento-app.git
-// or
 git clone https://github.com/samarasdelta/my-elegento-app.git
+// or
+git clone git@github.com:samarasdelta/my-elegento-app.git
 ```
 
 - Enter the folder
