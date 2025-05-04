@@ -9,7 +9,7 @@ Before you begin, ensure you have the following installed on your system:
 1. **npm** - [Install npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 2. **Git** - [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-## Helpfull Links
+## Helpful Links
 
 - ScandiPWA demo
 (https://scandipwa.com/demo)
