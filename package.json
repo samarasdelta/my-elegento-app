@@ -1,5 +1,6 @@
 {
     "name": "my-elegento-app",
+    "homepage": "/",
     "version": "0.0.1",
     "license": "OSL-3.0",
     "dependencies": {
